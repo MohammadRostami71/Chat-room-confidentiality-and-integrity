@@ -49,6 +49,11 @@ If the enemy fails to do the following, you win :)
 
 7.You are now ready to chat. Write a text on the cmd page of one of the clients and send it with enter do. You will see that this message has appeared on the page of the other two clients.
 
+<img src="Image/Image-1.jpg">
+
+<img src="Image/Image-2.jpg">
+
+<img src="Image/Image-3.jpg">
 *********************************************************************************
 
 The initial unsecured source code is inserted in ChatRoom.zip.
