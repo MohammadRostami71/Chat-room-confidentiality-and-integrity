@@ -23,25 +23,32 @@ Your code must eventually win the attack with the following assumptions:
 
 *%*The enemy does not have the value getValue.InsecureSharedValue()
 
+
 If the enemy fails to do the following, you win :)
 
-# Understand the content of the chat message.
+- Create a fake chat message and send it on behalf of a user.
 
-# Create a fake chat message and send it on behalf of a user.
+- Understand the content of the chat message.
 
-# Change a chat message during transmission.
-
+- Create a fake chat message and send it on behalf of a user.
 
 **********************************************************************************
 
 * Run : 
 1. Open Cmd and go to the path where you saved the file above.
-2.Compile the code using the "make" or "java * .javac" command. (If you have a problem, the keywords JDK and Search for a variable environment and fix the problem)
+
+2.Compile the code using the "make" or "java * .javac" command. (If you have a problem, the keywords JDK and Search for a variable environment and fix the problem).
+
 3.Open four cmd pages to get started. Put the path of all where you compiled the code.
+
 4.In the first cmd, type the command "ChatServer java". With this command, the ChatServer program starts running. Do not wait for the output. In fact, this program is waiting for a connection from the client.
+
 5.Go to the second cmd and type the command "user1 ChatClient java". By executing this command, a client named user1 We built. Do not wait for the output here either. If you look at the cmd server, a message is displayed that connection established.
+
 6.In the third and fourth cmd, create two more clients with different names. By doing this, there are three clients in our room chat has it.
+
 7.You are now ready to chat. Write a text on the cmd page of one of the clients and send it with enter do. You will see that this message has appeared on the page of the other two clients.
+
 *********************************************************************************
 
 The initial unsecured source code is inserted in ChatRoom.zip.
