@@ -1,0 +1,12 @@
+# Comment lines start with a '#' character
+
+# TCP port number to use for servers
+#
+# IMPORTANT:    (choose a random value between 2048 and 65530 for ServerPortNum)
+ServerPortNum: 60000
+
+# 128-bit value to use as a shared "secret"
+#
+# This is quite insecure; eventually it will be replaced by something better.
+# You can change this to some other value of the same size.
+InsecureSharedValue: 340282361295590780643136946602485219245
