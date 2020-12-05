@@ -56,6 +56,6 @@ If the enemy fails to do the following, you win :)
 <img src="Image/Image-3.jpg">
 *********************************************************************************
 
-The initial unsecured source code is inserted in ChatRoom.zip.
+<h1>The initial unsecured source code is inserted in ChatRoom.zip.</h1>
 
 
